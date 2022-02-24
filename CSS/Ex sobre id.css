@@ -1,0 +1,16 @@
+.title-red{
+    color:red;
+   }
+.title-green {
+   color:green;
+}
+.title-blue {
+   color:blue;
+ 
+ /*we use id to override a previous command with# */
+    #title-green{}
+    #title-green{color:green}
+   
+    .title-red {
+   color: red;
+ }

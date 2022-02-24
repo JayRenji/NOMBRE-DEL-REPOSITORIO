@@ -1,0 +1,18 @@
+/*here I will now inseret styles by using*/
+    /*btw this is how you coment in CSS*/
+h1{
+        color:red;
+        background-color:blue;
+        opacity: 0.3;
+        text-align: center;
+}
+
+/* Now i am going to change the font size of "p"*/
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*To use id we need to assign a tag on HTML first and then use the same tag with # on CSS*/
+#mainPar {
+    color:green;
+    }

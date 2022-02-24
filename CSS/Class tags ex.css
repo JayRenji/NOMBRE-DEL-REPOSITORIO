@@ -1,0 +1,26 @@
+/*Here we work moding specific classes by adding a . class name */
+.title-red{
+     color:red;
+    }
+.title-green {
+    color:green;
+}
+.title-blue {
+    color:blue;
+
+    #title-purple {
+  color: purple;
+}
+
+.title-red {
+  color: red;
+}
+}
+/*we use id to override a previous command with# */
+#title-purple {
+    color: purple;
+  }
+  
+  .title-red {
+    color: red;
+  }
